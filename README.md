@@ -1,8 +1,8 @@
-Crowdfunding ETL Project
-Project Overview
+#Crowdfunding ETL Project
+##Project Overview
 This project involved the creation of an ETL (Extract, Transform, Load) pipeline to process crowdfunding data from Excel files and load the transformed data into a PostgreSQL database. Working collaboratively, the team applied Python, Pandas, and regular expressions to extract and transform the data, and created multiple CSV files for loading into the database.
 
-Team Members
+##Team Members
 Member 1: [Mark]
 Member 2: [Jonas]
 Files Included
